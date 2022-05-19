@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         String message = editText.getText().toString();
         String message = editText.getText().toString();
         namjera.putExtra(EXTRA_MESSAGE, message);
-        startActivity(namjera);
+        startActivity(namjeraa);
 
 
 
